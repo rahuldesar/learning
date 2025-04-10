@@ -1,0 +1,3 @@
+{
+  "diagnostics.disable": ["unused-local", "missing-fields", "lowercase-global"]
+}

@@ -1,0 +1,8 @@
+{
+  "workspace.library": [
+    "/Users/rahuldesar/Developer/Personal/helpers/love2d/library"
+  ],
+  "runtime.version": "Lua 5.3",
+  "hint.enable": true,
+  "diagnostics.disable": ["unused-local", "missing-fields"]
+}
