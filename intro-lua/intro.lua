@@ -1,6 +1,2 @@
-local num = 0
-
-while num < 50 do
-	print(num)
-	num = num + 1
-end
+local mod = require("mod") -- Run the file mod.lua.
+mod.say_hello()

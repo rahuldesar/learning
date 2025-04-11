@@ -62,3 +62,11 @@ t.key2 = nil    -- removes key2 from table
 
 
 ```
+
+## Metatables
+
+## Class
+
+## Modules
+
+
